@@ -1,0 +1,2 @@
+What happens when you initialize a repository? Why do you need to do it?
+--A .git directory is created when you initialize a repo. This enables us to track versions of the files after updates are made in the future. 

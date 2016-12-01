@@ -1,0 +1,47 @@
+How did viewing a diff between two versions of a file help you see the bug 
+that was introduced?
+
+--It helped to pinpoint the differences in 2 large files which would have been
+normally difficult to find. ALso the exact lines which were changed were 
+visible.
+
+How could having easy access to the entire history of a file make you a more 
+efficient programmer in the long term?
+
+--It would help to see the changes made in every version of the file thus 
+making it easier to understand the code and also help in finding any bugs 
+introduced.
+
+What do you think are the pros and cons of manually choosing when to create a
+commit, like you do in Git, vs having versions automatically saved, like 
+Google Docs does? 
+
+--The pros are that we can choose to save the file whenever we want to, this 
+giving us more control over the system. The cons are that manual error like 
+forgetting to save the code after making a significant change is not rectified.
+
+Why do you think some version control systems like Git allow saving multiple files 
+in one commit while others like Google Docs treat each file separately?
+
+--This is because Git and other systems like it are used for projects which are 
+spread over multiple files and require all files to be updated simlutaneously, 
+whereas systems like Google Docs are used primarily for projects independent of each 
+other which do not require multiple files.
+
+How can you use the commands git log and git diff to view the history of files?
+
+-- Git log helps us get the commit id of each saved version of the project 
+and git diff helps find the difference between any two versions using their 
+commit ids as arguments thus helping us find the changes made in the later 
+version.
+
+How might using version control make you more confident to make changes that 
+could break something?
+
+--I can always go back to a working version if the change does not work out.
+
+Now that you have your workspace set up, what do you want to use Git for?
+
+--I have no specific purpose in mind. I will try to contibute to some open source project in general.
+
+ 
