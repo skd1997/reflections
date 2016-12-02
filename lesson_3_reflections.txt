@@ -6,3 +6,6 @@ Why might you want to always pull changes manually rather than having Git automa
 
 Describe the differences between forks, clones, and branches. When would you use one instead of another?
 --Forks are clones made directly on Github, clones are made either locally of between the locla device and Github. Branches are completely different from clones and forks. They are made on the local device.
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+--It helps to see the differences between the version on Github and the one on our local device. It also helps to be able to access the code stored on Github offline (the version when we last synced).
