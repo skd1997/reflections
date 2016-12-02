@@ -3,3 +3,6 @@ When would you want to use a remote repository rather than keeping all your work
 
 Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 --This is because I may want the code on my computer to be a bit different from the code on Github, if I want to try something new. It allows me the flexibility to choose when I want to sync my project with the Github version.
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+--Forks are clones made directly on Github, clones are made either locally of between the locla device and Github. Branches are completely different from clones and forks. They are made on the local device.
